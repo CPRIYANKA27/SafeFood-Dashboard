@@ -138,7 +138,7 @@ export default function DashboardView({ supplier, onRaiseQuery }) {
         <div className="content-card">
           <div className="card-header">
             <h3 className="card-title">Compliance & Certificates</h3>
-            <a href="#" className="view-all-link">
+            <a href="viewall.jsx" className="view-all-link">
               View All
             </a>
           </div>
@@ -174,7 +174,7 @@ export default function DashboardView({ supplier, onRaiseQuery }) {
         <div className="content-card">
           <div className="card-header">
             <h3 className="card-title">Recent Queries</h3>
-            <a href="#" className="view-all-link">
+            <a href="viewall.jsx" className="view-all-link">
               View All
             </a>
           </div>
